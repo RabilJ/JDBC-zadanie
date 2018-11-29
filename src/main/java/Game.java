@@ -58,7 +58,7 @@ public class Game {
 
     @Override
     public String toString() {
-        return "Id: " + id + " Name: " + name + " Ocena: " + grade + " Kategoria: " + genre + "\nRok wydania: " + year + "\n";
+        return "Id: " + id + " Name: " + name + " Ocena: " + grade + " Kategoria: " + genre + "\nRok wydania: " + year + "\n\n";
     }
 
 }
